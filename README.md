@@ -1,5 +1,5 @@
 # Tip-calculator
-Simple Tip Calculator using JavaScript, HTML
+Simple Tip Calculator using JavaScript, HTML, and CSS.
 
 ## What is this project?
 This project allows users to calculate the tip amount and total bill based on the bill amount and the tip percentage they enter.
